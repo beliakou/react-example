@@ -12,3 +12,10 @@ npm install --save-dev webpack webpack-cli webpack-dev-server style-loader css-l
 ```
 npm install --save react react-dom
 ```
+
+### Install React hot loader (optional)
+```
+npm install --save react-hot-loader
+```
+
+Note: You can safely install react-hot-loader as a regular dependency instead of a dev dependency as it automatically ensures it is not executed in production and the footprint is minimal.
