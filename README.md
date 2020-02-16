@@ -19,3 +19,5 @@ npm install --save react-hot-loader
 ```
 
 Note: You can safely install react-hot-loader as a regular dependency instead of a dev dependency as it automatically ensures it is not executed in production and the footprint is minimal.
+
+[https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658](https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658)
